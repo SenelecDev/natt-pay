@@ -15,7 +15,7 @@ Avant de commencer, assurez-vous que les logiciels suivants sont installés sur 
 ### 1. Cloner le projet
 
 ```bash
-git clone https://github.com/votre-nom/natt-pay.git
+git clone https://github.com/SenelecDev/natt-pay.git
 cd natt-pay
 ```
 

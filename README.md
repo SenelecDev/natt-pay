@@ -21,7 +21,7 @@ NattPay est une application web mobile-first qui permet aux utilisateurs de cré
 
 1. Clonez ce dépôt
 ```bash
-git clone https://github.com/votre-nom/natt-pay.git
+git clone https://github.com/SenelecDev/natt-pay.git
 cd natt-pay
 ```
 
@@ -81,4 +81,4 @@ Ce projet est sous licence MIT.
 
 ## Contact
 
-Pour toute question ou suggestion concernant ce projet, veuillez nous contacter à l'adresse [votre-email@example.com].
+Pour toute question ou suggestion concernant ce projet, veuillez nous contacter à l'adresse [babacar.seck@outlook.fr].
